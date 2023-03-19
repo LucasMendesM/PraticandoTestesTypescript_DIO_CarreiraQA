@@ -1,0 +1,1 @@
+# PraticandoTestesTypescript_DIO_CarreiraQA
